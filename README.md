@@ -1,6 +1,4 @@
-Chameleon 变色龙 - Website IP Address Seeker
-
-# **Chameleon - Website IP Address Seeker**
+# **Chameleon 变色龙 - Website IP Address Seeker**
 
 ## Introduction
 

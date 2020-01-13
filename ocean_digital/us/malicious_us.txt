@@ -1,0 +1,6 @@
+# The following are the list of malicious IP addresses 
+# which causes high CPU usage and consumes all the RAM 
+# that will hangs your box.  Those should be commented 
+# out or deleted.
+
+162.243.0.202

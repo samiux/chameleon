@@ -1,0 +1,5 @@
+# The following are the list of malicious IP addresses 
+# which causes high CPU usage and consumes all the RAM 
+# that will hangs your box
+
+178.62.54.169
